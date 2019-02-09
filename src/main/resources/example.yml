@@ -1,0 +1,35 @@
+#this is a coment
+name: Toms
+
+names:
+  -John
+  -Paul
+  -Ringo
+
+pound_sign: "#"
+
+book:
+  author: Joe Buck
+  publisher: random house
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no #No, false, FALSE
+
+string_val: "Thi is a qupte"
+
+colon_string: "my coureses: one two three"
+
+include_new_lines: |
+  asdf asdf asdf
+  asdf adfewf asdf
+  asdf ea adfre
+
+ignore_new_lines: >
+  this is
+  just one long
+  string
